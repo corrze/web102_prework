@@ -26,7 +26,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 https://github.com/corrze/web102_prework/blob/main/assets/Video.mp4
-![Video Walkthrough](https://i.imgur.com/kEDxD6q.gif)
+
+Gif was too big just go to this website
+
+https://i.imgur.com/kEDxD6q.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Primere Pro
