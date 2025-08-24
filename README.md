@@ -27,6 +27,8 @@ Here's a walkthrough of implemented features:
 
 https://github.com/corrze/web102_prework/blob/main/assets/Video.mp4
 
+<img src="https://i.imgur.com/kEDxD6q.gif" width=200><br>
+
 Gif was too big just go to this website
 
 https://i.imgur.com/kEDxD6q.gif
