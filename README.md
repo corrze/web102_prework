@@ -27,7 +27,10 @@ Here's a walkthrough of implemented features:
 
 https://github.com/corrze/web102_prework/blob/main/assets/Video.mp4
 
-<img src="https://i.imgur.com/kEDxD6q.gif" width=200><br>
+<img src="https://i.imgur.com/kEDxD6q.gif" width="200">
+
+![Video Walkthrough](https://i.imgur.com/kEDxD6q.gif)
+
 
 Gif was too big just go to this website
 
@@ -46,7 +49,7 @@ While making the website, javascript with the biggest challegned. It was confusi
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Khoa Vo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
