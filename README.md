@@ -29,7 +29,6 @@ https://github.com/corrze/web102_prework/blob/main/assets/Video.mp4
 
 <img src="https://i.imgur.com/kEDxD6q.gif" width="200"><br>
 
-![Video Walkthrough](https://i.imgur.com/kEDxD6q.gif)
 
 
 Gif was too big just go to this website
