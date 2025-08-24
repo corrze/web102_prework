@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 * [X] Improved GUI for readability and state of mind
 * [X] Give buttons smooth antimation for better interactions
 
@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/video-walkthrough-fP27biS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Adobe Primere Pro
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While making the website, javascript with the biggest challegned. It was confusing at first to wrap your head around arrow functions, weird ? conditions, and spread operators. However arrow functions can be used quite similar to loops in python. It was hard to know if functions are correct, the online resources were really helpful in making innerHTML with template literals.
 
 ## License
 
