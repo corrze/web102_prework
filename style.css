@@ -17,10 +17,34 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: center;
+    gap: 10px
 }
+
+body h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+body p {
+    text-align: center;
+    font-size: 25px;
+}
+
 
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px;
+    padding: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.stats-container:hover {
+    color: lightblue;
+    transform: translateY(-2px);
 }
 
 .stats-card {
@@ -39,7 +63,7 @@ body {
 #games-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .game-img {
@@ -64,6 +88,18 @@ body {
 
 #button-container {
     text-align: center;
+}
+
+#button-container button {
+    padding: 10px 10px;
+    font-size: 20px;
+    box-shadow: 0 0 30px;
+    transition: all 0.3s ease;
+}
+
+#button-container button:hover {
+    box-shadow: 0 0 30px;
+    transform: translateY(-2px);
 }
 
 button {
