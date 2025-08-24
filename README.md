@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/kEDxD6q.gif" alt="Video Walkthrough" title="Video Walkthrough" />
+https://github.com/corrze/web102_prework/assets/Video.mp4
 
 
 <!-- Replace this with whatever GIF tool you used! -->
