@@ -25,8 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://github.com/corrze/web102_prework/assets/Video.mp4
-
+https://github.com/corrze/web102_prework/blob/main/assets/Video.mp4
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Primere Pro
