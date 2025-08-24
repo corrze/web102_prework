@@ -25,7 +25,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://imgur.com/a/video-walkthrough-fP27biS.jpg](https://i.imgur.com/kEDxD6q.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video controls width="600">
+  <source src="https://i.imgur.com/kEDxD6q.mp4" type="video/mp4">
+  Sorry, your browser doesn’t support embedded videos.
+</video>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Adobe Primere Pro
